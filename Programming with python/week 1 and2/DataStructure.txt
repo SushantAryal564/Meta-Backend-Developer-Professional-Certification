@@ -1,0 +1,4 @@
+Data structure in python:
+Builtin data structure: List, Dictionary, Tuples, set
+user defined data structure: stack, queue, tree, linkedlist, graph, hashmap
+A data structure allows you to srganize and arrange your data to perform operations on them. Built in data type are considered non primitive data structure, meaning they are classed as object.

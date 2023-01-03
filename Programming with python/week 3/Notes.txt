@@ -1,0 +1,61 @@
+1. What is procedural Programming?
+   The main purpose of programming lanaguage is to structure the code. some coding structure are:
+   i. Functional
+   ii. Object oriented
+   iii. procedural
+   procedural programming structure code in procedural.
+   DRY: Don't Repeat Yourself
+   Create function that can be used throughout the program.
+   Advantage of procedural:
+   Easy to learn
+   Reuseable
+   East to understand
+   Disadvantages
+   Hard to maintin
+   Doesn't relate well
+   expose to whole program
+
+2. Algorithm
+   Algorithm is used to solve multitude of problem. 
+   series of step to solve the problem.
+3. Algorithm Complexity
+   To determine how to make code faster or perform better we must be able to measure it by time and space. 
+   It is a measure of how long an algorithm will take to complete given the size of the input, or what is commonly called n or n times.
+   It is divided into two type:
+   Time complexity
+   Space complexity
+   Big O notetion: It is the most fundamental tool to measure the cost of algorithm. It desscribe the complexity of the code using algebric terms.
+
+   Time:
+   Constant Time
+   Linear Time
+   Logarithmic Time
+   Quadratic Time
+   Exponential Time
+
+4. Functional Programming
+   Two type:Traditional, pure
+   Utilizes function for clean, consistent and maintainable code.
+   Standalone/ Independent
+   First class citizens: They can be assigned to a variable, passed as an argument and returned to its caller.
+
+5. Pure Function
+   Pure functin are the functin that doesn't change or have any effect on a variable, data, list or sets beyond its own scope.
+   benefits of pure function:
+   -Know outcome
+   -consistent and reliable
+   -Cache
+   -Multi-threaded program
+
+6. Recursion
+   Recursion is a function that calls itself. 
+   Neat code, Sub problem, east sequences
+   Hard to follow, memory, debugging
+
+7. Map and filter
+   Map take all objects in a list and applies a function.
+   Filter do the same, but take the result and creates a new list with only the true values.
+
+8. Comprehensions
+   It is a way to create a new sequence from an already existing sequence.
+   List Comprehension
